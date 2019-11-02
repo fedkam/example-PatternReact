@@ -1,2 +1,0 @@
-# examplePatternReact
-Created with CodeSandbox
